@@ -1,0 +1,16 @@
+Hardware requirements:
+
+Jetson Orion Nano
+Logitech Webcam
+
+Software Requirements:
+
+ultralytics
+kagglehub
+pandas
+PyYAML
+opencv-python
+matplotlib
+scikit-learn
+jupyter
+notebook
